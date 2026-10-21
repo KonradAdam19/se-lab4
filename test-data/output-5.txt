@@ -1,0 +1,3 @@
+SUCCESS  # <- GT4500
+FAIL  # <- TORPEDO primary with 100 percent failure
+FAIL  # <- TORPEDO secondary with 100 percent failure

@@ -1,0 +1,4 @@
+# Create a ship with 100 percent failure
+GT4500,5,1.0,5,1.0
+TORPEDO,ALL  # should have failed
+TORPEDO,ALL  # should have failed

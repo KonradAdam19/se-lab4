@@ -1,0 +1,4 @@
+# Create a ship with 100 percent failure in the secondary
+GT4500,3,0.0,6,1.0
+TORPEDO,SINGLE  # should have not failed
+TORPEDO,SINGLE  # should have failed
