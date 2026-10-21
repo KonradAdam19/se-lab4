@@ -1,0 +1,4 @@
+# Create a ship with with only in primary
+GT4500,5,0.0,0,0.0
+TORPEDO,SINGLE  # should have not failed
+TORPEDO,SINGLE  # should have not failed

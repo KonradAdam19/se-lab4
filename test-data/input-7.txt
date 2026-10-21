@@ -1,0 +1,6 @@
+# Create a ship with torpedos
+GT4500,4,0.0,4,0.0
+TORPEDO,ALL  # should have not failed
+TORPEDO,ALL  # should have not failed
+TORPEDO,ALL  # should have not failed
+TORPEDO,ALL  # should have not failed
